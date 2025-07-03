@@ -1,0 +1,30 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 03:04:36 GMT
+Content-Type: application/json; charset=utf-8
+Set-Cookie: srv_id-api=03541dd6f92e8cf949bfbeecf6c99633; httponly; samesite=lax; path=/
+Set-Cookie: .AspNet.SharedAuth=CfDJ8DuTRyjAgw1ImfyBmVqiZ1-Idm8PCbrCMTx-XsDWkLYDFGvRseLZnYxN_QOA2WwZ3GM6r9d0zUbtJugozGOPYsXylQHK5bVXxilI2KozjN8sDvnAi_eSPfcJFHKl_ggGek7mV_D94XSLcyNO9gtkzcR3bBbHMNQxigrWT7VHpsEaif0mVB-ih76OG8A7l_wo3Ms5gNUmIsug-p7luPF2sVOQFhSpaArm1Igz2xcJ01HVVYlLTAx6FwnYV9uOKCdpyFgeXNJZjKR4fBnjkJ1hAKSMtrg9qfa2JmV0xBtfW5FTWQMu1r3HILk2B868xjPjamf6-nnUDkqIo-qH75vSwm2hgv3iB0AD-TI4EemtFqojDQxbBm3EJ6jJ7KesycgETxpEuQ5GgxN7JZtdOvKh9m2nIJOIJ8yWlG3A3-q7_RYn6W2fgRNLsbtekVtEjLMfCQjy8Ps4CTJ0uIh2MK-G6iem6HUGt2QaQBzz52JpC1zlvQvh2PypgjT0wvMY_rRFb00rKWKwZnPjAiXGmj2jSsCrUfLlKPKk2d-758R_z8yOYZ-qKwsHVrTDyBD_tQ5NAAPyRqDhIiBNKn9lP9mI9i9fLWA0TefyKKhkSEZX9fH1-dZymkzvlvtpRF-WcBkGbQ; path=/; HttpOnly; SameSite=Lax
+Cache-Control: no-cache
+Pragma: no-cache
+Expires: -1
+Vary: Accept-Encoding
+X-Correlation-Id: 379bb17d-4269-4a36-a135-dadad9b85c24
+X-Aspnetmvc-Version: 5.2
+X-Bb-Form-Submit: SUCCESS
+X-Aspnet-Version: 4.0.30319
+Application-Name: NoviBR
+Domain-Key: _BR
+Cms-Key: _BR
+Country-Sysname: BR
+Currency-Sysname: BRL
+Channel: WebPC
+X-Powered-By: ASP.NET
+X-F-Lo: 8
+X-F-N: 03
+X-F-N-T: 02
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 95932806bc3ff19b-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"userSessionModel":{"isSignalRHubEnabled":true,"sessionId":"pzpgm2guqq2d0do5foibxz4a","virtualSessionId":"1390166308380086273","channel":"WebPC","applicationName":"NoviBR","subscriberID":0,"isBannedCountry":false,"proposedDomain":null,"proposedDomainHref":null,"hasSplashPage":true,"isAuthenticated":true,"vipType":{"id":1,"sysname":"None"},"kycProvider":"Jumio","firstName":"ARTHUR","lastName":"SANTOS DO NASCIMENTO","ssn":null,"tin":"02828043150","email":"santosdonascimentoarthur74@gmail.com","profileId":7093440,"languageSysname":"pt-BR","currencySysname":"BRL","currencySymbol":"R$","oddsRepresentation":1,"userIp":"179.73.186.111","userGroupSysname":"BR","liveSoundsEnabled":false,"timeZone":"E. South America Standard Time","timeZoneOffset":"-03:00:00","userTimeStampUnix":1751501075874,"domainKey":"_BR","cmsKey":"_BR","countrySysname":"BR","countryCodeByIp":"BR","stateSysname":null,"stateCodeByIp":null,"serverIp":"10.30.0.8","freeBetAmountText":null,"showInboxIndicator":false,"hasDeposited":false,"depositTnCsAccepted":0,"suspensionReason":null,"activeSuspensions":[],"activationDate":null,"forcedTransition":false,"showTransitionCompletePopup":true,"username":"santosdonascimentoarthur74@gmail.com","funds":0.0,"bannedFromCasino":false,"bannedFromPoker":false,"claimedBonusSchemeId":null,"bonusSchemeId":null,"betBuilderBetContextId":null,"showBetRadioButton":false,"walletDetails":{"funds":0.0,"withdrawableFunds":0.0,"withheldTax":0.0,"totalDepositAmount":0.0,"totalWithdrawalAmount":0.0,"bonusData":null,"lifeTimeNetBalance":null,"casinoReserved":0.0,"sportsBookReserved":0.0,"financialLoss":0.0},"bettingGenericAppSettings":{"bettingAllowed":true},"casinoGenericAppSettings":{"demoPlayAllowed":true,"realPlayAllowed":true},"documentsVerification":{"kyc":1,"age":1,"id":1,"address":0,"sow":0,"otherDocs":0},"sessionRGNotification":{"date":"2025-07-03T03:04:35.8747085+00:00","interval":-1,"enabled":false},"sessionInactivityTimeNotification":{"date":"2025-07-03T03:04:35.8747085+00:00","interval":-1,"enabled":false},"lastLogin":"2025-07-03T03:00:02.5239604+00:00","loginDateUtc":"2025-07-03T03:04:36.0309644+00:00","annualUpdateReminder":null,"missingDataCollectionForm":null,"resetPassword":"NoAction","passwordExpirationDate":"2025-10-02T00:00:00+00:00","showNoviboardSportsbook":false,"showNoviboardCasino":false,"showGiftwheelSportsbook":true,"showGiftwheelCasino":true,"showKycBlock":false,"showAmlThresholdForm":false,"showAmlMediumRiskForm":false,"showConsentPopUp":"DoNotShow","userState":"OK","newTncsVersion":false,"liveChatUrl":"https://chat.novibet.bet.br?token=%2f3KK6getXgPLvz249h1MeQGRzlBYsM8HYmGcM3j2D5pz%2f8R0mh6w1UI0e4vqLSb0vSpZRzk%2fLEzKWST58aA0BmsDxTJgV%2f4%2fQI1e864mXDFk%2fZwgfYzHRbn9wJSPqNj%2f7tnbHBu05HxW%2fFPuJ9PFjMsqyuXS%2bbbeOUG825bA7gEXO%2bXXSjL48K6zpPcb5wKIbR540gjDuxoBi0fIS0qnpyVs56lw3O9ePM8Nxbx2rOEhtr%2f%2fqVa%2ffHAN9eUzgpPQatjd0ldsCBuQfPlIGeT7B9H7njdNIspMdiWn31OMctjcqz0dYXaZtDDqYINupbQvlf8zFlv4s0EngpJwTHQ01qjpOe3%2b4q%2bnaHmdX7jmqA47z5X4lctNSh8w9Qt%2b9K7spFb4K11gVJdlnz%2bDGxn3LlKFe9tDbW7mL2e%2b1LPyvV4%3d","pendingWithdraws":false,"isAutoWithdrawEnabled":true,"forceChangePassword":false,"isVerificationDocumentRequired":false,"showLimits":false,"depositLimitRestriction":false,"showTransition":false,"showNotificationWarning":true,"enablePredictionChallenge":false,"inactivityTime":30,"providerFunds":null,"geoComplyInfo":{"geoComplyLicenseInfo":{"license":null,"retryAt":"0001-01-01T00:00:00+00:00","retryAtMilliseconds":0},"geoComplyDecisionInfo":{"decision":0,"regionCode":null,"retryAt":"0001-01-01T00:00:00+00:00","retryAtMilliseconds":0}},"closestLimitEndTime":null,"sessionTimeReminder":null},"autoLoginToken":null,"oneTimeTokens":[],"userState":"OK","checkUserStatusUrl":null,"showTransition":false,"showNoDepositors":false,"showLimits":false,"showLastLoginInfo":true,"showPasswordReset":false,"showKycBlock":false,"loginDateUtc":"2025-07-03T03:04:36.0309644+00:00","bettingGenericAppSettings":null,"userValidationAppSettings":null,"genericSiteFlowsSettings":null,"casinoGenericAppSettings":null,"success":true,"message":null,"errorCode":null,"fieldErrors":null,"errorData":[]}
