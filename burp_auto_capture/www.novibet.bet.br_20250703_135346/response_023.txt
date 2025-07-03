@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 03:04:52 GMT
+Content-Type: application/json
+Vary: Accept-Encoding
+Access-Control-Allow-Origin: *
+X-F-Lo: 182
+X-F-N: 03
+X-F-N-T: 02
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 95932870ebd1f19b-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"negotiateVersion":0,"url":"https://nov-prd-bra-signalr.service.signalr.net/client/?hub=customernotificationhub&asrs.op=%2Fplt%2Fsignalrhub%2Fcustomernotificationhub&negotiateVersion=1&asrs_request_id=GteuZO5KBwA%3D","accessToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ii0xOTU5Mjc0MTE5In0.eyJhc3JzLnMuc2VjbiI6IjIiLCJhc3JzLnMudHRsIjoiNSIsIm5iZiI6MTc1MTUxMTg5MiwiZXhwIjoxNzUxNTE1NDkyLCJpYXQiOjE3NTE1MTE4OTIsImF1ZCI6Imh0dHBzOi8vbm92LXByZC1icmEtc2lnbmFsci5zZXJ2aWNlLnNpZ25hbHIubmV0L2NsaWVudC8_aHViPWN1c3RvbWVybm90aWZpY2F0aW9uaHViIn0.iI8YHzOv4VN-TrMNPwF-_azCxn5TNK0FNhxPu2fT3nE","availableTransports":[]}
