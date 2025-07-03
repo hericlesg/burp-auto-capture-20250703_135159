@@ -1,0 +1,33 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 03:04:48 GMT
+Content-Type: application/json; charset=utf-8
+Set-Cookie: srv_id-api=03541dd6f92e8cf949bfbeecf6c99633; httponly; samesite=lax; path=/
+Cache-Control: private
+Vary: Accept-Encoding
+X-Correlation-Id: e2a4c278-df7d-4465-b135-b7e3b848c034
+X-Aspnetmvc-Version: 5.2
+X-Gw-Channel: WebPC
+X-Gw-Language-Sysname: pt-BR
+X-Gw-Application-Name: NoviBR
+X-Gw-Domain-Key: _BR
+X-Gw-Cms-Key: _BR
+X-Gw-Country-Sysname: BR
+X-Gw-Currency-Sysname: BRL
+X-Aspnet-Version: 4.0.30319
+Application-Name: NoviBR
+Domain-Key: _BR
+Cms-Key: _BR
+Country-Sysname: BR
+Currency-Sysname: BRL
+Channel: WebPC
+X-Powered-By: ASP.NET
+X-F-Lo: 8
+X-F-N: 03
+X-F-N-T: 02
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 959328541a87f19b-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"channel":"WebPC","languageSysname":"pt-BR","applicationName":"NoviBR","domainKey":"_BR","cmsKey":"_BR","countrySysname":"BR","stateSysname":null,"currencySysname":"BRL"}
