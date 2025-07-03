@@ -1,0 +1,20 @@
+GET /td/rul/861103808?random=1751511873971&cv=11&fst=1751511873971&fmt=3&bg=ffffff&guid=ON&async=1&gtm=45je5711h2v9103273604za200zb863745186&gcd=13l3l3R3l5l1&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891&u_w=2560&u_h=1080&url=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&hn=www.googleadservices.com&frm=0&tiba=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&npa=0&auid=72731936.1751510365&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&fledge=1&data=event%3Dform_start HTTP/2
+Host: td.doubleclick.net
+Cookie: ar_debug=1; receive-cookie-deprecation=1; IDE=AHWqTUlOyvb62hjYadUglJDzFrvpyuPIXtcuT63NowI6ZtQ2VWsy3RdZSc6kELq5uXs
+Sec-Ch-Ua: "Not.A/Brand";v="99", "Chromium";v="136"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Accept-Language: en-US,en;q=0.9
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+X-Client-Data: CLbuygE=
+Sec-Fetch-Site: cross-site
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: iframe
+Sec-Fetch-Storage-Access: active
+Referer: https://www.novibet.bet.br/
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+
