@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 03:05:01 GMT
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+Httprequestid: cf115224-0e2b-46d8-b6da-8ea5e1662c59
+X-F-Lo: 182
+X-F-N: 01
+X-F-N-T: 03
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 959328a63cbbf19b-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+{"result":{"dateRangeLimit":{"limitExceeded":false,"dateRangeRequestedInMonths":1,"dateRangeLimitInMonths":36,"dateRangeReturnedInMonths":1},"pageInfo":{"hasNextPage":false,"hasPreviousPage":false},"header":{"customerId":7093440,"totalAmount":0.0000},"rows":[{"walletActionId":206809363,"description":"","type":"WITHDRAW","date":"2025-07-02T22:03:38.58","amount":-20.0000,"previousAmount":20.0000,"newAmount":0.0000},{"walletActionId":206807555,"description":"","type":"DEPOSIT","date":"2025-07-02T21:45:05.463","amount":10.0000,"previousAmount":10.0000,"newAmount":20.0000},{"walletActionId":206803264,"description":"","type":"DEPOSIT","date":"2025-07-02T20:58:54.493","amount":10.0000,"previousAmount":0.0000,"newAmount":10.0000}]},"isSuccess":true,"errors":null}
