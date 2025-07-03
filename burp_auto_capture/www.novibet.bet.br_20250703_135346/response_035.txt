@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Date: Thu, 03 Jul 2025 03:04:56 GMT
+Content-Type: application/json; charset=utf-8
+Vary: Accept-Encoding
+X-Correlation-Id: aad85f1b-f7e4-495f-8ab4-46f6319e3544
+X-F-Lo: 13
+X-F-N: 01
+X-F-N-T: 01
+Cf-Cache-Status: DYNAMIC
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+Cf-Ray: 9593288b5c4af19b-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+[{"uid":"3a6c6b52-a777-4a09-bc21-06dfe174bd29","customerProfileId":7093440,"accountNumber":"593918250","accountType":"PAC","accountHolderName":"ARTHUR SANTOS DO NASCIMENTO","accountHolderType":"PAC","bankName":"PAGARE IP S.A.","branchCode":"0001","swiftCode":"","iban":"","currency":"BRL","taxId":"02828043150","createDate":"2025-07-02T21:45:05.3392595","updateDate":null,"isVerified":true,"isDefaultSelection":false},{"uid":"149fbf76-653f-4f3f-967f-4c95baae558e","customerProfileId":7093440,"accountNumber":"86820528897","accountType":"CRN","accountHolderName":"Arthur Santos Do Nascimento","accountHolderType":"CRN","bankName":"MERCADOPAGO.COM REPRESENTACOES LTDA.","branchCode":"1","swiftCode":"","iban":"","currency":"BRL","taxId":"02828043150","createDate":"2025-07-02T20:58:54.3979","updateDate":null,"isVerified":true,"isDefaultSelection":false}]
