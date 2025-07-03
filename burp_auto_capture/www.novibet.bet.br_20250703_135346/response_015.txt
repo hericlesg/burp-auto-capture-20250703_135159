@@ -1,0 +1,14 @@
+HTTP/1.1 101 Switching Protocols
+Date: Thu, 03 Jul 2025 03:04:44 GMT
+Connection: upgrade
+Upgrade: websocket
+Sec-WebSocket-Accept: oUQOj+zR2AniTMlLZ53Bzj0jvV4=
+x-f-lo: 17
+x-f-n: 02
+x-f-n-t: 02
+cf-cache-status: DYNAMIC
+Strict-Transport-Security: max-age=15552000
+Server: cloudflare
+CF-RAY: 9593283dfc60cb3c-GIG
+alt-svc: h3=":443"; ma=86400
+
