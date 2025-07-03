@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20250703_135228", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.googleadservices.com_20250703_135228/request_001.txt", 
+      "url": "https://www.googleadservices.com:443/pagead/conversion/861103808/?random=1751511881525&cv=11&fst=1751511881525&bg=ffffff&guid=ON&async=1&gcl_ctr=6&gtm=45je5711h2v9103273604z8863745186za200zb863745186&gcs=G1--&gcd=13l3l3R3l5l1&dma=0&tag_exp=101509157~102015666~103116026~103200004~103233427~103308615~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891&u_w=2560&u_h=1080&url=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&gclaw_src=8_3&label=RLRXCImYjoECEMDNzZoD&hn=www.googleadservices.com&frm=0&tiba=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&value=0&ga_uid=G-XJQJTTNRLE.7093440&bttype=purchase&npa=0&gclgs=1&gclst=1521525&gcllp=103095583&gclaw=EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE&auid=72731936.1751510365&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&ec_mode=a&oid=1526361000.1751511882&ecsid=250141416.1751510388&fledge=1&capi=1&_tu=ChA&delc=BR&data=country%3DBR&em=tv.1~em.nf0vDzJZFf5TOrGIMUi9Mf5SuYz4ry-ScqC5h5eSQY4&_ht=t.110~l.50&fmt=7", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/www.googleadservices.com_20250703_135228/response_001.txt", 
+      "timestamp": 1751511882490
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/www.googleadservices.com_20250703_135228/request_002.txt", 
+      "url": "https://www.googleadservices.com:443/pagead/conversion/10848176949/?random=1751511882383&cv=11&fst=1751511882383&bg=ffffff&guid=ON&async=1&gcl_ctr=7&gtm=45be5711h2v9178890843z8863745186za200zb863745186&gcs=G1--&gcd=13l3l3R3l5l1&dma=0&tag_exp=101509157~103116026~103200004~103233427~103308615~103351869~103351871~104684208~104684211~104718208~104839054~104839056~104885889~104885891&u_w=2560&u_h=1080&url=https%3A%2F%2Fwww.novibet.bet.br%2Fapostas-esportivas&gclaw_src=8_3&label=ryO9CMmR4ZUYELWW6LQo&hn=www.googleadservices.com&frm=0&tiba=Apostas%20Esportivas%20%7C%20Apostas%20Online%20%7C%20Novibet&value=0&ga_uid=G-XJQJTTNRLE.7093440&bttype=purchase&npa=0&gclgs=1&gclst=1522384&gcllp=103095583&gclaw=EAIaIQobChMImM6CodSfjgMVB1dIAB2N0CyuEAAYASAAEgLBevD_BwE&auid=72731936.1751510365&uaa=&uab=&uafvl=&uamb=0&uam=&uap=Windows&uapv=&uaw=0&ec_mode=a&oid=1845668818.1751511882&ecsid=250141416.1751510388&fledge=1&capi=1&_tu=KhA&em=tv.1&fmt=7", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/www.googleadservices.com_20250703_135228/response_002.txt", 
+      "timestamp": 1751511882810
+    }
+  ], 
+  "host": "www.googleadservices.com", 
+  "total_requests": 2
+}
